@@ -1,5 +1,5 @@
 # AI_News_App
-Its a AI News Application on react.
+Its an AI News Application on react.
 Just Tap on the button and say the topic on which you want news.
 Everything is controlled by voice AI.
 
